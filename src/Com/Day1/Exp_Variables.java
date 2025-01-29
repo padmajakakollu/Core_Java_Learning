@@ -16,6 +16,7 @@ public class Exp_Variables {
         System.out.println("Double value: " + number_Double);
         System.out.println("Character value: " + character);
         System.out.println("Boolean value: " + number_boolean);
+        System.out.println("This th first test");
 
     }
 }
