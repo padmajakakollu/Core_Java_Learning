@@ -17,7 +17,5 @@ public class Exp_Variables {
         System.out.println("Character value: " + character);
         System.out.println("Boolean value: " + number_boolean);
 
-
-
     }
 }
