@@ -13,7 +13,7 @@ public class StarPattern {
             }
             System.out.println("");
         }
-        System.out.println("Hello World");
+
 
     }
 }
